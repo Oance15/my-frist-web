@@ -1,0 +1,80 @@
+/*Main and common styles*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.introducere {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Dacia {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Dacia-Pick-Up {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+
+    text-align: center;
+    font-size: 20px;
+}
+
+.dacia {
+    padding: 5px;
+    justify-content: center;
+}
+
+.ARO {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+
+    text-align: center;
+    font-size: 20px;
+}
+
+.Oltcit {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+
+    text-align: center;
+    font-size: 20px;
+}
+
+.Malaxa {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+
+    text-align: center;
+    font-size: 20px;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        #002B7F 33.33%,
+        #FCD116 33.33% 66.66%,
+        #CE1126 66.66%
+    );
+}
+
