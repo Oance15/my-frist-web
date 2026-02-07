@@ -1,80 +1,157 @@
-/*Main and common styles*/
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-.introducere {
-    border: 2px solid black;
-    margin: 20px;
-    padding: 10px;
-    background-color: antiquewhite;
+.reg {
     text-align: center;
-    font-size: 20px;
-}
-
-.Dacia {
-    border: 2px solid black;
-    margin: 20px;
-    padding: 10px;
-    background-color: antiquewhite;
-    text-align: center;
-    font-size: 20px;
-}
-
-.Dacia-Pick-Up {
-    border: 2px solid black;
-    margin: 20px;
-    padding: 10px;
-    background-color: antiquewhite;
-
-    text-align: center;
-    font-size: 20px;
-}
-
-.dacia {
-    padding: 5px;
     justify-content: center;
-}
+    height: 100px;
+    line-height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: red;
+    background-color: black;
+} 
 
-.ARO {
-    border: 2px solid black;
-    margin: 20px;
-    padding: 10px;
-    background-color: antiquewhite;
-
+.cap1 {
     text-align: center;
-    font-size: 20px;
+    justify-content: center;
+    height: 80px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    background-color: black;
 }
 
-.Oltcit {
-    border: 2px solid black;
-    margin: 20px;
-    padding: 10px;
-    background-color: antiquewhite;
+.Reg1 {
+   text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+}
 
+.cap2 {
     text-align: center;
-    font-size: 20px;
+    justify-content: center;
+    height: 80px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    background-color: black;
 }
 
-.Malaxa {
-    border: 2px solid black;
-    margin: 20px;
-    padding: 10px;
-    background-color: antiquewhite;
+.Reg2 {
+   text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+}
 
+.cap3 {
     text-align: center;
-    font-size: 20px;
+    justify-content: center;
+    height: 80px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    background-color: black;
 }
 
-body {
-    margin: 0;
-    height: 100vh;
-    background: linear-gradient(
-        to right,
-        #002B7F 33.33%,
-        #FCD116 33.33% 66.66%,
-        #CE1126 66.66%
-    );
+.Reg3 {
+   text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
 }
 
+.cap4 {
+    text-align: center;
+    justify-content: center;
+    height: 80px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    background-color: black;
+}
+
+.Reg4 {
+   text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+}
+
+.cap5 {
+    text-align: center;
+    justify-content: center;
+    height: 80px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    background-color: black;
+}
+
+.Reg5 {
+   text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+}
+
+.cap6 {
+    text-align: center;
+    justify-content: center;
+    height: 80px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    background-color: black;
+}
+
+.Reg6 {
+   text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+}
+
+.cap7 {
+    text-align: center;
+    justify-content: center;
+    height: 80px;
+    line-height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: red;
+    background-color: black;
+}
+
+.Reg7 {
+   text-align: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: aqua;
+    background-color: black;
+}
+
+.RT {
+  width: 200px;
+  text-align: center;
+  display: block;
+  margin: 20px auto;
+}
